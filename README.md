@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @FridaMercado
-- 👀 I’m interested in coding and cibersecurity
-- 🌱 I’m currently learning JAVA Backend programming
-- 💞️ I’m looking to collaborate on projects related to sustainability
-- 📫 How to reach me, checkout my linkedin 
-- ⚡ Fun fact: I'm an artist on my free time
+- :)  ¡Hola, soy Frida Mercado!
+- 👀 Soy apasionada en temas de código en backend y ciberseguridad
+- 🌱 Actualmente estoy aprendiendo microservicios en Backend
+- 💞️ Me interesa colaborar en proyectos que fomenten el mejoramiento del planeta y relacionados con sustentabilidad
+- 📫 Para contactarme mi linkedin es https://www.linkedin.com/in/fridamercado/
+- ⚡ Fun fact: Soy una artista en mi tiempo libre
 
-<!---
-FridaMercado/FridaMercado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
